@@ -37,11 +37,11 @@ yarn-error.*
 *.pem
 
 # local env files
-# .env
-# .env*.local
-# .env.dev
-# .env.stg
-# .env.prod
+.env
+.env*.local
+.env.dev
+.env.stg
+.env.prod
 
 # typescript
 *.tsbuildinfo
