@@ -11,26 +11,26 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
 		5F066DF5DD151DEBA01E736A /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F73C59DF88BB5D985E1D6 /* PrivacyInfo.xcprivacy */; };
+		A5D98D2E25EA2456FADFE7F8 /* libPods-tessaractapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C687A71A2ECF107004DD46D /* libPods-tessaractapp.a */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
-		C6D97BA6435E2171DAA1D29D /* libPods-tessaractapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CCFD2A52360DD82B6E191F7B /* libPods-tessaractapp.a */; };
 		F11748422D0307B40044C1D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11748412D0307B40044C1D9 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		025B8C61CE05C6EEE76D3061 /* Pods-tessaractapp.releasestg.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.releasestg.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.releasestg.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* tessaractapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tessaractapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = tessaractapp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = tessaractapp/Info.plist; sourceTree = "<group>"; };
-		29121A880E89F336EF02AB24 /* Pods-tessaractapp.debugstg.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debugstg.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debugstg.xcconfig"; sourceTree = "<group>"; };
-		2C097412B2E0ACBCC1C7A1E5 /* Pods-tessaractapp.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debugdev.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debugdev.xcconfig"; sourceTree = "<group>"; };
-		395F1C54EF5C4EBE8E6467B8 /* Pods-tessaractapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.release.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.release.xcconfig"; sourceTree = "<group>"; };
-		54E3C8AAD6B3B8B5706A2D36 /* Pods-tessaractapp.releasedev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.releasedev.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.releasedev.xcconfig"; sourceTree = "<group>"; };
+		2C687A71A2ECF107004DD46D /* libPods-tessaractapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tessaractapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		347225E6AC91DB932F9A6097 /* Pods-tessaractapp.releasedev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.releasedev.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.releasedev.xcconfig"; sourceTree = "<group>"; };
+		3EC754EFE5E26CA5A57DA2B3 /* Pods-tessaractapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debug.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debug.xcconfig"; sourceTree = "<group>"; };
 		6974C5D45C0F4D83A3D27CD0 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-tessaractapp/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		6E4C2E60423A76906E82AAB3 /* Pods-tessaractapp.debugdev.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debugdev.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debugdev.xcconfig"; sourceTree = "<group>"; };
 		7B7F73C59DF88BB5D985E1D6 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = tessaractapp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		87E7A7FC080F14B7F21545BB /* Pods-tessaractapp.releasestg.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.releasestg.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.releasestg.xcconfig"; sourceTree = "<group>"; };
+		8B5D711160B98C0E4B0100BE /* Pods-tessaractapp.debugstg.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debugstg.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debugstg.xcconfig"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = tessaractapp/SplashScreen.storyboard; sourceTree = "<group>"; };
-		B636ADA67623E0B6287184CC /* Pods-tessaractapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.debug.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.debug.xcconfig"; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
-		CCFD2A52360DD82B6E191F7B /* libPods-tessaractapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tessaractapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3E43F4891D11A7CC924314A /* Pods-tessaractapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tessaractapp.release.xcconfig"; path = "Target Support Files/Pods-tessaractapp/Pods-tessaractapp.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F11748412D0307B40044C1D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = tessaractapp/AppDelegate.swift; sourceTree = "<group>"; };
 		F11748442D0722820044C1D9 /* tessaractapp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "tessaractapp-Bridging-Header.h"; path = "tessaractapp/tessaractapp-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6D97BA6435E2171DAA1D29D /* libPods-tessaractapp.a in Frameworks */,
+				A5D98D2E25EA2456FADFE7F8 /* libPods-tessaractapp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,7 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				CCFD2A52360DD82B6E191F7B /* libPods-tessaractapp.a */,
+				2C687A71A2ECF107004DD46D /* libPods-tessaractapp.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -121,12 +121,12 @@
 		D0AE0DA3DC5D80156F93D112 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B636ADA67623E0B6287184CC /* Pods-tessaractapp.debug.xcconfig */,
-				29121A880E89F336EF02AB24 /* Pods-tessaractapp.debugstg.xcconfig */,
-				2C097412B2E0ACBCC1C7A1E5 /* Pods-tessaractapp.debugdev.xcconfig */,
-				395F1C54EF5C4EBE8E6467B8 /* Pods-tessaractapp.release.xcconfig */,
-				87E7A7FC080F14B7F21545BB /* Pods-tessaractapp.releasestg.xcconfig */,
-				54E3C8AAD6B3B8B5706A2D36 /* Pods-tessaractapp.releasedev.xcconfig */,
+				3EC754EFE5E26CA5A57DA2B3 /* Pods-tessaractapp.debug.xcconfig */,
+				8B5D711160B98C0E4B0100BE /* Pods-tessaractapp.debugstg.xcconfig */,
+				6E4C2E60423A76906E82AAB3 /* Pods-tessaractapp.debugdev.xcconfig */,
+				E3E43F4891D11A7CC924314A /* Pods-tessaractapp.release.xcconfig */,
+				025B8C61CE05C6EEE76D3061 /* Pods-tessaractapp.releasestg.xcconfig */,
+				347225E6AC91DB932F9A6097 /* Pods-tessaractapp.releasedev.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -146,14 +146,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "tessaractapp" */;
 			buildPhases = (
-				888CE10CDBA47246B7B4AAC9 /* [CP] Check Pods Manifest.lock */,
+				70CD77DF93AEA2C955D0EFF8 /* [CP] Check Pods Manifest.lock */,
 				8C80A91E84BE2765F0AA54CB /* [Expo] Configure project */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				9AF2CD1D0BE3BE30BC83C1DD /* [CP] Embed Pods Frameworks */,
-				EF3836F0E125348F33368D00 /* [CP] Copy Pods Resources */,
+				D9FC1A7EE5312274C19AE711 /* [CP] Embed Pods Frameworks */,
+				3F4AD96B84AAE4D772535759 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -227,7 +227,39 @@
 			shellPath = /bin/sh;
 			shellScript = "if [[ -f \"$PODS_ROOT/../.xcode.env\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env\"\nfi\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n# The project root by default is one level up from the ios directory\nexport PROJECT_ROOT=\"$PROJECT_DIR\"/..\n\nif [[ \"$CONFIGURATION\" = *Debug* ]]; then\n  export SKIP_BUNDLING=1\nfi\nif [[ -z \"$ENTRY_FILE\" ]]; then\n  # Set the entry JS file using the bundler's entry resolution.\n  export ENTRY_FILE=\"$(\"$NODE_BINARY\" -e \"require('expo/scripts/resolveAppEntry')\" \"$PROJECT_ROOT\" ios absolute | tail -n 1)\"\nfi\n\nif [[ -z \"$CLI_PATH\" ]]; then\n  # Use Expo CLI\n  export CLI_PATH=\"$(\"$NODE_BINARY\" --print \"require.resolve('@expo/cli', { paths: [require.resolve('expo/package.json')] })\")\"\nfi\nif [[ -z \"$BUNDLE_COMMAND\" ]]; then\n  # Default Expo CLI command for bundling\n  export BUNDLE_COMMAND=\"export:embed\"\nfi\n\n# Source .xcode.env.updates if it exists to allow\n# SKIP_BUNDLING to be unset if needed\nif [[ -f \"$PODS_ROOT/../.xcode.env.updates\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.updates\"\nfi\n# Source local changes to allow overrides\n# if needed\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n`\"$NODE_BINARY\" --print \"require('path').dirname(require.resolve('react-native/package.json')) + '/scripts/react-native-xcode.sh'\"`\n\n";
 		};
-		888CE10CDBA47246B7B4AAC9 /* [CP] Check Pods Manifest.lock */ = {
+		3F4AD96B84AAE4D772535759 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-tessaractapp/Pods-tessaractapp-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/ExpoConstants_privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/ExpoFileSystem/ExpoFileSystem_privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/ExpoSystemUI/ExpoSystemUI_privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/RNCAsyncStorage/RNCAsyncStorage_resources.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/React-Core_privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-cxxreact/React-cxxreact_privacy.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoConstants_privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoFileSystem_privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoSystemUI_privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/RNCAsyncStorage_resources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/React-Core_privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/React-cxxreact_privacy.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SDWebImage.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tessaractapp/Pods-tessaractapp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		70CD77DF93AEA2C955D0EFF8 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -273,7 +305,7 @@
 			shellPath = /bin/sh;
 			shellScript = "# This script configures Expo modules and generates the modules provider file.\nbash -l -c \"./Pods/Target\\ Support\\ Files/Pods-tessaractapp/expo-configure-project.sh\"\n";
 		};
-		9AF2CD1D0BE3BE30BC83C1DD /* [CP] Embed Pods Frameworks */ = {
+		D9FC1A7EE5312274C19AE711 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -295,38 +327,6 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tessaractapp/Pods-tessaractapp-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		EF3836F0E125348F33368D00 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tessaractapp/Pods-tessaractapp-resources.sh",
-				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/EXConstants.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/EXConstants/ExpoConstants_privacy.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/ExpoFileSystem/ExpoFileSystem_privacy.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/ExpoSystemUI/ExpoSystemUI_privacy.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/RNCAsyncStorage/RNCAsyncStorage_resources.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/React-Core_privacy.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/React-cxxreact/React-cxxreact_privacy.bundle",
-				"${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EXConstants.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoConstants_privacy.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoFileSystem_privacy.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ExpoSystemUI_privacy.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/RNCAsyncStorage_resources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/React-Core_privacy.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/React-cxxreact_privacy.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SDWebImage.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tessaractapp/Pods-tessaractapp-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -344,7 +344,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B636ADA67623E0B6287184CC /* Pods-tessaractapp.debug.xcconfig */;
+			baseConfigurationReference = 3EC754EFE5E26CA5A57DA2B3 /* Pods-tessaractapp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -382,7 +382,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 395F1C54EF5C4EBE8E6467B8 /* Pods-tessaractapp.release.xcconfig */;
+			baseConfigurationReference = E3E43F4891D11A7CC924314A /* Pods-tessaractapp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -477,7 +477,7 @@
 		};
 		79D9FAD42ECEF76100EC1F22 /* DebugDev */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2C097412B2E0ACBCC1C7A1E5 /* Pods-tessaractapp.debugdev.xcconfig */;
+			baseConfigurationReference = 6E4C2E60423A76906E82AAB3 /* Pods-tessaractapp.debugdev.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -578,7 +578,7 @@
 		};
 		79D9FAD62ECEF76A00EC1F22 /* DebugStg */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 29121A880E89F336EF02AB24 /* Pods-tessaractapp.debugstg.xcconfig */;
+			baseConfigurationReference = 8B5D711160B98C0E4B0100BE /* Pods-tessaractapp.debugstg.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -671,7 +671,7 @@
 		};
 		79D9FAD82ECEF77200EC1F22 /* ReleaseDev */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 54E3C8AAD6B3B8B5706A2D36 /* Pods-tessaractapp.releasedev.xcconfig */;
+			baseConfigurationReference = 347225E6AC91DB932F9A6097 /* Pods-tessaractapp.releasedev.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -758,7 +758,7 @@
 		};
 		79D9FADA2ECEF77900EC1F22 /* ReleaseStg */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 87E7A7FC080F14B7F21545BB /* Pods-tessaractapp.releasestg.xcconfig */;
+			baseConfigurationReference = 025B8C61CE05C6EEE76D3061 /* Pods-tessaractapp.releasestg.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
